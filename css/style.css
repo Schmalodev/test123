@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(230, 255, 255);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    margin: 45px;
+    font-size: 25px;
+}
+
+#InputField{
+    height: 140px;
+}
+
+#Title{
+    font-size: 35px;
+}
+
+#Button{
+    border-radius: 20px;
+    font-size: 50px;
+    background-color: rgb(255, 255, 255);
+}
